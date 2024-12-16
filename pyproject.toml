@@ -1,0 +1,18 @@
+[project]
+name = "toolsmax"
+version = "0.1.0"
+description = "Tools that are so useful"
+authors = [{ name = "Python-Best-Coder", email = "moo12345@gmail.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+keywords = ['tools', 'python']
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Operating System :: Unix",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+]
