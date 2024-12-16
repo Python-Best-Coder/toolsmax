@@ -17,6 +17,9 @@ classifiers = [
     "Operating System :: Microsoft :: Windows",
 ]
 
+[project.urls]
+Source = "https://github.com/Python-Best-Coder/toolsmax"
+
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
